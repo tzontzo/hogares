@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.matrixlms.hogaresunion.app" version="1.00" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+<widget id="com.matrixlms.hogaresunion.app" version="1.01" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
     <name>Academia Comercial HU</name>
     <description>
         Con esta herramienta reforzarás tus conocimientos de manera lúdica e interactiva
@@ -122,6 +122,6 @@
     <plugin name="cordova-plugin-vibration" spec="~2.1.0" />
     <plugin name="cordova-plugin-whitelist" spec="~1.2.1" />
     <plugin name="phonegap-plugin-push" spec="~1.8.4">
-        <variable name="SENDER_ID" value="172347389621" />
+        <variable name="SENDER_ID" value="534684956115" />
     </plugin>
 </widget>
